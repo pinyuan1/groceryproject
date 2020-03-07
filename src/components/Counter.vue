@@ -21,5 +21,5 @@ export default {
  a{
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   text-align: center; 
-  color: black; }
+  color: rgba(74, 32, 187, 0.596) }
 </style>
